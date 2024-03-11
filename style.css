@@ -128,3 +128,11 @@ nav {
 .row {
   display: flex;
 }
+@media (max-width: 576px) {
+  .yoga-app {
+    font-size: 24px;
+    padding-top: 25px;
+  }
+  .launch-yoga-app-button {
+  }
+}
